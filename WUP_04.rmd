@@ -76,3 +76,5 @@ This shows that highschool and graduate are different from each other and LT hig
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+ In this boxplot we discussed how individuals with a graduate, bachelor degree, and a junior college degree scored better then individuals in the LT highschool category and the highschool category. We established that the people who attended college had a mean value of 9 or greater, while the LT highschool and the highschool students had a mean value of 8 or less. We found that our P value was a very small value of 0.000236, so we rejected the null hypothesis. Lastly we used the "TukeyHSD" model and were able to ellaborate further that the 95% confidence level LT highschool- graduate and highschool- graduate categories did not go over the "0." In conclusion these two cateogories refrenced are different.   
